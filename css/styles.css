@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#dianne-jarvis-lumsden-cover {
+  background-image: url("http://i.imgur.com/kZGeBod.jpg");
+}
+
+#dianne-jarvis-lumsden-card {
+  background-image: url("http://i.imgur.com/64Gm263.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
